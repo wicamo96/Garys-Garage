@@ -1,0 +1,15 @@
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.exe
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.deps.json
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.runtimeconfig.json
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.dll
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\bin\Debug\net8.0\VehicleInheritance.pdb
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.AssemblyInfoInputs.cache
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.AssemblyInfo.cs
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.sourcelink.json
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.dll
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\refint\VehicleInheritance.dll
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.pdb
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\VehicleInheritance.genruntimeconfig.cache
+C:\Users\willc\workspace\csharp\exercises\VehicleInheritance\obj\Debug\net8.0\ref\VehicleInheritance.dll
